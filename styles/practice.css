@@ -1,0 +1,9 @@
+#info-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+.info-card {
+    border-left: 10px solid black;
+}
